@@ -19,5 +19,9 @@ The change_direction function is needed in order to avoid the snake to go for ex
 The restart_game function is activated either by the "restart" button or by pressing spacebar. It deletes everything in the game except for the background images and resets all variables. The game_over function is pretty similar but it displays a Game over text.
 
 After defining all the previous functions we can start creating the actual window using tkinter library, but first all the main variables are defined and the canvas images displayed. The window settings are then set along with the keyboard buttons bindings. Lastly the restart button is set and the window is executed.
-<img align="right" src="media/snake3.png" width="300" />
+
+You can manage the difficulty level by changing the Speed variable, have fun
+
+
+<img align="left" src="media/snake3.png" width="300" />
 
