@@ -106,7 +106,7 @@ def restart_game():
         direction = 'down'
         last_direction = 'down'
         label.config(text="Score:{}".format(score))
-        game_running = True  # Set the game as running
+        game_running = True 
         next_turn(snake, food)  # Start the game
 
 
