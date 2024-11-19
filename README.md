@@ -3,6 +3,6 @@
 
 # 💻 Code
 
-<img align="right" src="media/snake.png" width="300" />
+<img align="right" src="media/snake1.png" width="300" />
 
-The
+In the first part of the code we defin 
