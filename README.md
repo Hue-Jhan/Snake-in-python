@@ -1,5 +1,5 @@
 # Snake in python 
-  Snake game in Python with GUI (using tkinter)
+  Snake game in Python with GUI using tkinter with custom buttons and background
 
 # 💻 Code
 
