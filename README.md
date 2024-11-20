@@ -14,6 +14,7 @@ first we access the global variable for the direction of the snake (defined late
 
 - Later we set the score logic and the collision logic, they are both actually pretty simple.
 <img align="right" src="media/snake2.png" width="300" />
+
 - The change_direction function is needed in order to avoid the snake to go for example from left to right without first turning up or down. The check collision function is self explanatory.
 
 - The restart_game function is activated either by the "restart" button or by pressing spacebar. It deletes everything in the game except for the background images and resets all variables. The game_over function is pretty similar but it displays a Game over text.
