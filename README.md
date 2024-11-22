@@ -2,6 +2,7 @@
   Snake game in Python with GUI using tkinter with custom buttons and background
 
 # 💻 Code
+Here's the code explained step by step:
 
 <img align="right" src="media/snake1.png" width="300" />
 
